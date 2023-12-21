@@ -7,8 +7,8 @@ const chalk = require('chalk')
 
 global.gr = 'https://wa.me/6288214772441?text=bang+aku+mau+donasi+i+love+yuuu'
 global.ig = 'https://instagram/@arsrfii' // ubah aja
-global.taa = 'https://taaofc-panel.my.id'
-global.gh = 'https://github.com/chataofc'
+global.taa = 'https://my.arsyrafi.repl.co'
+global.gh = 'https://github.com/GetSya'
 global.email = 'arasyarafi02@gmail.com' //serah
 global.region = 'indonesia' // serah
 global.dana = '088213292687'
